@@ -1,0 +1,31 @@
+.MainContainer{
+    text-align: center;
+    border: 1px solid black;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    background-color: black;
+}
+.heading{
+    color: #fff;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+button{
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    border-radius: 10px;
+}
+.para{
+    font-size: 80px;
+    color: #fff;
+}
+.reset{
+    background-color: red;
+    color: #fff;
+}
